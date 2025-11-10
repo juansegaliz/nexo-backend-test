@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+SQLAlchemy
+alembic
+PyMySQL
+python-dotenv
+
+argon2-cffi
+PyJWT
+
+cryptography
